@@ -1,0 +1,9 @@
+commit dec2b819222c692275232462b6b0bd22c641ea54
+Author: Emmett Lalish <elalish@google.com>
+Date:   Fri Feb 7 10:01:12 2020 -0800
+
+    updated posters (#996)
+    
+    * updated posters
+    
+    * fixed loading models after poster display
