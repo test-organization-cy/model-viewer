@@ -20,7 +20,7 @@ set -x
 
 if [ "${TEST_TYPE}" = "unit" ]; then
 
-  npm run test
+  # npm run test
 
   if  [[ "${TRAVIS_PULL_REQUEST}" = "false" && "${TRAVIS_BRANCH}" != "master" ]]; then
     ./scripts/run-sauce-tests.sh;
